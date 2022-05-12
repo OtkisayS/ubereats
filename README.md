@@ -1,2 +1,0 @@
-# ubereats
-clone ubereats
